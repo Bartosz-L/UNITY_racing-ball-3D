@@ -5,4 +5,4 @@ CONTROLS:
 ARROWS - movement
 R - restart
 
-[DEMO HERE] (http://pp43694.wsbpoz.solidhost.pl/test/racingball/)
+[DEMO HERE](http://pp43694.wsbpoz.solidhost.pl/test/racingball/)
