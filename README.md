@@ -1,4 +1,4 @@
-3D racing ball game. The goal is to collect all the the diamonds in the level. 
+3D racing ball game. The goal is to collect all the diamonds in the level. 
 The game has simple physics of rolling ball and dynamic camera.
 
 CONTROLS:
